@@ -1,0 +1,19 @@
+.inputFilter {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  border-color: blueviolet;
+  margin: 0 5px;
+}
+.inputFilter:hover {
+  border-color: orange;
+}
+.inputLabel {
+  
+  font-size: 20px;
+  font-weight: 700;
+}
+.divFilter {
+  margin: 0 auto;
+  text-align: center;
+}
